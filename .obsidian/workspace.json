@@ -51,6 +51,48 @@
             }
           },
           {
+            "id": "ee2b84b23c01e0bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Механика Бросков и Проверок.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4. Механика Бросков и Проверок"
+            }
+          },
+          {
+            "id": "d795840a0d7719b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Механика Бросков и Проверок.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4. Механика Бросков и Проверок"
+            }
+          },
+          {
+            "id": "5d48e71810cda595",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Создание персонажа.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Создание персонажа"
+            }
+          },
+          {
             "id": "e63617f668604d4f",
             "type": "leaf",
             "state": {
@@ -177,7 +219,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       },
       {
         "id": "ffa5aa8d44603822",
@@ -356,11 +398,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aebe93b4089873e4",
+  "active": "5d48e71810cda595",
   "lastOpenFiles": [
-    "2. Создание персонажа.md",
-    "4. Механика боёв, исследования и социальных взаимодействий.md",
     "3. Навыки.md",
+    "4. Механика Бросков и Проверок.md",
+    "5. Бой.md",
+    "Приложение.md",
+    "Untitled.md",
+    "2. Создание персонажа.md",
     "1. Основа системы.md",
     "0. Вступление.md",
     "4. Механика боёв, исследования и социальных взаимодействий",
@@ -382,9 +427,6 @@
     "10. Аугментации.md",
     "Gatefall.md",
     "32",
-    "6. Броня 1.md",
-    "8. Техника.md",
-    "7. Корабли.md",
-    "6. Снаряжение.md"
+    "6. Броня 1.md"
   ]
 }
